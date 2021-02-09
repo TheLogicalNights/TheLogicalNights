@@ -19,9 +19,4 @@
 - Visual Studio Code
 - Sublime
 <br>
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="TheLogicalNights' GitHub Stats" src="https://github-readme-stats.thelogicalnights.vercel.app/api?username=TheLogicalNights&show_icons=true&hide_border=true" />
-
-</details>
