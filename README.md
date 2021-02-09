@@ -18,8 +18,7 @@
 - Terminal
 - Visual Studio Code
 - Sublime
-
-<br><br>
+<br>
 <details>
   <summary>:zap: GitHub Stats</summary>
 
