@@ -6,14 +6,14 @@
 - 🌱 I’m currently learning : Scala and Python
 - 📫 How to reach me: https://www.instagram.com/ll_.swapnil._ll
 - ⚡ LeetCode Profile : https://leetcode.com/TheLogicalNights/
-
+<!--
 <br />
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
-
+-->
 ### Languages and Tools:
 
 <img align="left" alt="c" width="26px" src="img/c.png" />
