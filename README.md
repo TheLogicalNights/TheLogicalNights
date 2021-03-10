@@ -14,17 +14,12 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="p5" width="26px" src="img/p5.png" />
-<img align="left" alt="netlify" width="26px" src="img/netlify.png" />
-
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"> 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-<img align="left" alt="c" width="26px" src="img/c.png" />
-<img align="left" alt="cpp" width="26px" src="img/cpp.jpg" />
-<img align="left" alt="py" width="26px" src="img/py.png" />
-<img align="left" alt="flutter" width="26px" src="img/flutter2.png" />
+<br>
+<br>
 - C
 - C++
 - Java
@@ -36,5 +31,5 @@
 - Terminal
 - Visual Studio Code
 - Sublime
-<br>
+
 
