@@ -37,3 +37,4 @@
 <br>
 <br>
 [![Swapnil's github stats](https://github-readme-stats.vercel.app/api?username=TheLogicalNights)](https://github.com/anuraghazra/github-readme-stats)
+[![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=singhkunal2050)](https://github.com/anuraghazra/github-readme-stats)
