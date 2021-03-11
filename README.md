@@ -10,6 +10,7 @@
 [<img align="left" alt="swapniladhav.com" width="22px" src="img/website.png" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="img/linkedIn.png" />][linkedin]
 [<img align="left" alt="Instagram" width="32px" src="https://raw.githubusercontent.com/aniket1004/aniket1004/main/img/instagram.png" />][instagram]
+[<img align="left" alt="twitter" width="24px" src="https://raw.githubusercontent.com/aniket1004/aniket1004/main/img/twitter.png" />][twitter]
 
 <br />
 
@@ -38,6 +39,7 @@
 [website]: https://swapniladhav.netlify.app
 [instagram]: https://instagram.com/ll_.swapnil._ll
 [linkedin]: https://www.linkedin.com/in/swapnil-adhav-48b094189/
+[twitter]: https://twitter.com/SwapnilAdhav10/
 
 <br />
 
