@@ -7,8 +7,6 @@
 - 📫 How to reach me: https://swapniladhav.netlify.app/
 - ⚡ LeetCode Profile : https://leetcode.com/TheLogicalNights/
 
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="singhkunal2050.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
