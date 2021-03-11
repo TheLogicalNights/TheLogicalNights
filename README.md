@@ -41,3 +41,4 @@
 [linkedin]: https://www.linkedin.com/in/swapnil-adhav-48b094189/
 
 <br />
+[![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=singhkunal2050)](https://github.com/anuraghazra/github-readme-stats)
