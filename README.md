@@ -9,7 +9,7 @@
 
 [<img align="left" alt="swapniladhav.com" width="22px" src="img/website.png" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="img/linkedIn.png" />][linkedin]
-[<img align="left" alt="Instagram" width="24px" src="img/instagram1.png" />][instagram]
+[<img align="left" alt="Instagram" width="32px" src="https://raw.githubusercontent.com/aniket1004/aniket1004/main/img/instagram.png" />][instagram]
 
 <br />
 
