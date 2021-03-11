@@ -1,6 +1,4 @@
-### Hi there 👋
-
-**TheLogicalNights** 
+### Hi there , I'm Swapnil - [Swapnil Ramesh Adhav][website] 👋
 
 - 🔭 I’m currently working on : php-apis
 - 🌱 I’m currently learning : PHP REST APIs
@@ -9,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="singhkunal2050.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="swapniladhav.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="singhkunal2050 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="singhkunal2050 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -42,4 +40,4 @@
 [instagram]: https://instagram.com/ll_.swapnil._ll
 [linkedin]: https://www.linkedin.com/in/swapnil-adhav-48b094189/
 
-</ br>
+<br />
