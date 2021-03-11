@@ -6,14 +6,13 @@
 - 🌱 I’m currently learning : PHP REST APIs
 - 📫 How to reach me: https://swapniladhav.netlify.app/
 - ⚡ LeetCode Profile : https://leetcode.com/TheLogicalNights/
-<!--
+
 <br />
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
--->
+
 ### Languages and Tools:
 
 <img align="left" alt="c" width="26px" src="img/c.png" />
@@ -37,3 +36,6 @@
 <br>
 <br>
 
+[website]: https://swapniladhav.netlify.app
+[instagram]: https://instagram.com/ll_.swapnil._ll
+[linkedin]: https://www.linkedin.com/in/swapnil-adhav-48b094189/
