@@ -1,7 +1,7 @@
 ### Hi there , I'm Swapnil - [Swapnil Ramesh Adhav][website] 👋
 
-- 🔭 I’m currently working on : php-apis
-- 🌱 I’m currently learning : PHP REST APIs
+- 🔭 I’m currently working on : spring core⚛️
+- 🌱 I’m currently learning : spring framework🍃
 - 📫 How to reach me: https://swapniladhav.netlify.app/
 - ⚡ LeetCode Profile : https://leetcode.com/TheLogicalNights/
 
