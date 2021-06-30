@@ -44,7 +44,7 @@
 [twitter]: https://twitter.com/SwapnilAdhav10/
 
 <br />
-
+[![wakatime](https://wakatime.com/badge/github/TheLogicalNights/Spring-Boot.svg)](https://wakatime.com/badge/github/TheLogicalNights/Spring-Boot)
 [![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLogicalNights&show_icons=true&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLogicalNights&layout=compact&show_icons=true&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)   
