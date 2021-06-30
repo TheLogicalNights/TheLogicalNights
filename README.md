@@ -47,5 +47,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLogicalNights&layout=compact&show_icons=true&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Swapnil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheLogicalNights)](https://github.com/anuraghazra/github-readme-stats)
+[![Swapnil's wakatime stats](https://github-readme-stats.vercel.app/api/Wakatime?username=TheLogicalNights)](https://github.com/anuraghazra/github-readme-stats)
 
