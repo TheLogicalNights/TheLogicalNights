@@ -1,5 +1,7 @@
 ### Hi there , I'm Swapnil - [Swapnil Ramesh Adhav][website] 👋
 
+[![wakatime](https://wakatime.com/badge/github/TheLogicalNights/Spring-Boot.svg)](https://wakatime.com/badge/github/TheLogicalNights/Spring-Boot)
+
 - 🔭 I’m currently working on : spring core⚛️
 - 🌱 I’m currently learning : spring framework🍃
 - 📫 How to reach me: https://swapniladhav.netlify.app/
