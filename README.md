@@ -49,3 +49,5 @@
 
 [![Swapnil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheLogicalNights&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://activity-graph.herokuapp.com/graph?username=TheLogicalNights&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
+
