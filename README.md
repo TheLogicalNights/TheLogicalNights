@@ -59,7 +59,7 @@
 
 <img src="img/border.gif" width="1100px" height="10px"></h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TheLogicalNights&theme=merko)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheLogicalNights&theme=darkhub&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <img src="img/border.gif" width="1100px" height="10px">
