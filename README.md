@@ -43,11 +43,27 @@
 
 <br />
 
-[![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLogicalNights&show_icons=true&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<img src="images/border.gif" width="1100px" height="10px">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLogicalNights&layout=compact&show_icons=true&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)   
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLogicalNights&show_icons=true&custom_title=My GitHub Stats&count_private=true&theme=merko" /></p>
 
-[![Swapnil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheLogicalNights&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<img src="images/border.gif" width="1100px" height="10px"> 
+
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=TheLogicalNights&hide_border=true&theme=merko" width="45%" height="160px">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLogicalNights&layout=compact&theme=merko" width="45%" height="160px"/>
+
+<img src="images/border.gif" width="1100px" height="10px"></h2>
+
+[![Swapnil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheLogicalNights&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="images/border.gif" width="1100px" height="10px"></h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheLogicalNights&theme=merko&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<img src="images/border.gif" width="1100px" height="10px">
 
 <img src="https://activity-graph.herokuapp.com/graph?username=TheLogicalNights&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
+<img src="images/border.gif" width="1100px" height="10px">
 
