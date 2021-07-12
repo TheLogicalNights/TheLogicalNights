@@ -1,7 +1,7 @@
 ### Hi there , I'm Swapnil - [Swapnil Ramesh Adhav][website] 👋
 
-- 🔭 I’m currently working on : spring core⚛️
-- 🌱 I’m currently learning : spring framework🍃
+- 🔭 I’m currently working on : Spring Boot and Microservices 
+- 🌱 I’m currently learning : Microservices
 - 📫 How to reach me: https://swapniladhav.netlify.app/
 - ⚡ LeetCode Profile : https://leetcode.com/TheLogicalNights/
 
@@ -46,7 +46,7 @@
 <img src="img/border.gif" width="1100px" height="10px">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLogicalNights&show_icons=true&custom_title=My GitHub Stats&count_private=true&theme=merko" /></p>
-
+### 
 <img src="img/border.gif" width="1100px" height="10px"> 
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=TheLogicalNights&hide_border=true&theme=merko" width="45%" height="160px">
