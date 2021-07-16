@@ -46,7 +46,7 @@
 <img src="img/border.gif" width="1100px" height="10px">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLogicalNights&show_icons=true&custom_title=My GitHub Stats&count_private=true&theme=merko" /></p>
-### 
+
 <img src="img/border.gif" width="1100px" height="10px"> 
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=TheLogicalNights&hide_border=true&theme=merko" width="45%" height="160px">
