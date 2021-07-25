@@ -64,6 +64,4 @@
 
 <img src="img/border.gif" width="1100px" height="10px">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=TheLogicalNights&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
-<img src="img/border.gif" width="1100px" height="10px">
 
