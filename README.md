@@ -1,7 +1,7 @@
 ### Hi there , I'm Swapnil - [Swapnil Ramesh Adhav][website] 👋
 
-- 🔭 I’m currently working on : Spring Boot and Microservices 
-- 🌱 I’m currently learning : Microservices
+- 🔭 I’m currently working on : Spring Boot and Microservices. 
+- 🌱 I’m currently learning : React.js
 - 📫 How to reach me: https://swapniladhav.netlify.app/
 - ⚡ LeetCode Profile : https://leetcode.com/TheLogicalNights/
 
