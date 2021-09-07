@@ -49,8 +49,8 @@
 
 <img src="img/border.gif" width="1100px" height="10px"> 
 
-<!--<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=TheLogicalNights&hide_border=true&theme=merko" width="45%" height="160px">
--->
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=TheLogicalNights&hide_border=true&theme=merko" width="45%" height="160px">
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLogicalNights&layout=compact&theme=merko" width="45%" height="160px"/>
 <br />
 <img src="img/border.gif" width="1100px" height="10px"></h2>
