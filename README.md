@@ -57,7 +57,7 @@
 
 <!-- [![Swapnil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheLogicalNights&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img src="img/border.gif" width="1100px" height="10px"></h2>
+<!-- <img src="img/border.gif" width="1100px" height="10px"></h2> -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TheLogicalNights&theme=darkhub&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
