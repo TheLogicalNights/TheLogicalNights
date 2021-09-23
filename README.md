@@ -55,7 +55,7 @@
 <br />
 <img src="img/border.gif" width="1100px" height="10px"></h2>
 
-[![Swapnil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheLogicalNights&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Swapnil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheLogicalNights&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <img src="img/border.gif" width="1100px" height="10px"></h2>
 
