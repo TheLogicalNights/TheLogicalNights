@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on : Spring Boot and Microservices. 
 - 🌱 I’m currently learning : React.js
 - 📫 How to reach me: https://swapniladhav.netlify.app/
-- ⚡ LeetCode Profile : https://leetcode.com/TheLogicalNights/
+<!-- - ⚡ LeetCode Profile : https://leetcode.com/TheLogicalNights/ -->
 
 ### Connect with me:
 
@@ -43,25 +43,10 @@
 
 <br />
 
-<img src="img/border.gif" width="1100px" height="10px">
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLogicalNights&show_icons=true&custom_title=My GitHub Stats&count_private=true&theme=merko" /></p>
-
-<img src="img/border.gif" width="1100px" height="10px"> 
-
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=TheLogicalNights&hide_border=true&theme=merko" width="45%" height="160px">
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLogicalNights&layout=compact&theme=merko" width="45%" height="160px"/>
 <br />
-<img src="img/border.gif" width="1100px" height="10px"></h2>
 
-<!-- [![Swapnil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheLogicalNights&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- <img src="img/border.gif" width="1100px" height="10px"></h2> -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=TheLogicalNights&theme=darkhub&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<img src="img/border.gif" width="1100px" height="10px">
 
 
